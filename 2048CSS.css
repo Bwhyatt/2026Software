@@ -1,0 +1,12 @@
+#game{
+    background-color: #bbada0;
+    border-color: black;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 5px;
+    justify-content: center;    
+    display: flex;
+}
+p{
+    color: green;
+}
